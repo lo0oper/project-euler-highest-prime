@@ -1,1 +1,1 @@
-# prime-generate-spoj
+# project-euler-highest-prime
